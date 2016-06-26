@@ -5,7 +5,7 @@
 | 315 | [Count of Smaller Numbers After Self]                        |                    |
 | 314 | [Binary Tree Vertical Order Traversal] ☢                     |                    |
 | 313 | [Super Ugly Number]                                          |                    |
-| 65  | [Valid Number]                                               | [C](src/65.c)      |
+| 65  | [Valid Number]                                               | [Python](src/65.py)|
 
 
 [LeetCode algorithm problems]: https://leetcode.com/problemset/algorithms/
