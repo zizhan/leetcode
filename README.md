@@ -4,7 +4,7 @@
 | --- | ------------------------------------------------------------ | ------------------ |
 | 315 | [Count of Smaller Numbers After Self]                        |                    |
 | 314 | [Binary Tree Vertical Order Traversal] ☢                     |                    |
-| 313 | [Super Ugly Number]                                          | [C](src/313.c)     |
+| 313 | [Super Ugly Number]                                          |                    |
 | 65  | [Valid Number]                                               | [C](src/65.c)      |
 
 
